@@ -1,0 +1,9 @@
+# Empty gitignore at the moment
+*.o
+*.tsk
+*.d
+*.img
+*.bin
+*.elf
+*.sym
+*.gdb_history
