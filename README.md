@@ -1,7 +1,7 @@
 Integrantes:
  - Pablo Lopes Perera
- - Joaquin Naftaly (@joaconafta)
- - Gabriel Hayon (@gabrielhayon)
+ - Joaquin Naftaly [@joaconafta](https://github.com/joaconafta)
+ - Gabriel Hayon [@gabrielhayon](https://github.com/gabrielhayon)
 
 ** por compatibilidad se omiten tildes **
 
